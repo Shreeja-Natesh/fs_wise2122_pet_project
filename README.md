@@ -25,4 +25,6 @@
    - I have used assert statement in my code "cancer.ipynb" which is used while debugging the code.
    - The assert statement is used to continue the execute if the given condition evaluates to True. If the assert condition evaluates to False, then it raises the AssertionError   exception with the specified error message.
 8. Continuous Delivery 
-   - In github action we can see the c
+   - In github action we can see in the workflows if any changes is made in the code or if anything additional is added.
+   - Others can use your github link to download and make changes in the link.
+   - 
