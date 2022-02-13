@@ -15,3 +15,7 @@
                      - Mean Absoulute Error : calculates the average difference between the calculated values and actual values.
                      - Classification Report : It is a performance evaluation metric which shows the precision, recall, F1 Score, and support of our trained classification model.
 5. Clean Code Development
+6. Build Management
+   - I wrote a seperate Mobile development code on Android studio.
+    #Output - 
+   - 
