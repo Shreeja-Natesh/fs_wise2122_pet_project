@@ -7,5 +7,5 @@
                     - $ git commit -m "small discription"
                     - $ git push
    - Sometimes I add files directly on git by dragging the file to upload then commiting it.
-2.# UML diagram
+2. UML Diagram
    - Use the link for UML diagram https://github.com/Shreeja-Natesh/fs_wise2122_pet_project/tree/main/UML
