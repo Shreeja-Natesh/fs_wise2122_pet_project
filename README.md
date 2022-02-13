@@ -27,4 +27,10 @@
 8. Continuous Delivery 
    - In github action we can see in the workflows if any changes is made in the code or if anything additional is added.
    - Others can use your github link to download and make changes in the link.
+
+9. IDE
+   - I have used Android Studio which is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.
+
+10. Domain Specific Languages
+   - what is it? It is languages created to support a particular set of tasks, as they are performed in a specific domain.
    - 
