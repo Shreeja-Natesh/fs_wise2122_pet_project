@@ -17,5 +17,9 @@
 5. Clean Code Development
 6. Build Management
    - I wrote a seperate Mobile development code on Android studio.
-    #Output - 
+    #Output - https://github.com/Shreeja-Natesh/fs_wise2122_pet_project/blob/main/proj1-1/Screenshot-output.png .
    - Android Studio uses Gradle, an advanced build toolkit, to automate and manage the build process, while allowing us to define flexible custom build configurations.
+7. Unit Tests
+   - I have used assert which is used while debugging the code.
+   - The assert statement is used to continue the execute if the given condition evaluates to True. If the assert condition evaluates to False, then it raises the AssertionError   exception with the specified error message.
+8. 
