@@ -30,7 +30,36 @@
 
 9. IDE
    - I have used Android Studio which is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.
+   - Using Colab which is an interactive IDE with independant cells to run code.
 
 10. Domain Specific Languages
    - what is it? It is languages created to support a particular set of tasks, as they are performed in a specific domain.
-   - 
+
+
+11. Functional Programming
+   - (mostly) side effect free functions
+         ![Side_free](https://user-images.githubusercontent.com/87199756/153762589-cfed9866-514e-413f-aa7c-2d500ef66960.PNG)
+           
+           - Here the function does not make any changes in global variable but instead in local variable.
+   
+   - functions as parameters and return values
+        a. ![image](https://user-images.githubusercontent.com/87199756/153765620-73204884-f22c-4e88-86f5-5d7c0b1b7209.png)
+
+            - Created a function "create_model1" with x_train and y_train arguments. Then, when you call the function, you pass it's values for those parameters. Finally, my function returns a value.
+        b. ![Return2](https://user-images.githubusercontent.com/87199756/153765831-f660c457-2a56-4643-97b3-69935771302f.PNG)
+            
+            - Created a function "k-fold" with model, num_folds, seed and scoring arguments. When called prints a message, here the message is the mean value.
+        c. ![Return3](https://user-images.githubusercontent.com/87199756/153766047-bf8d20b8-3575-4689-8fdb-389e922ef624.PNG)
+             
+             - Created a function "create_model2" with x_train and y_train arguments. When the function is called we pass it's values for those parameters. Finally my function returns a value. 
+
+
+         
+
+
+         
+
+
+    
+
+
