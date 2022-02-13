@@ -18,4 +18,4 @@
 6. Build Management
    - I wrote a seperate Mobile development code on Android studio.
     #Output - 
-   - 
+   - Android Studio uses Gradle, an advanced build toolkit, to automate and manage the build process, while allowing us to define flexible custom build configurations.
