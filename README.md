@@ -16,7 +16,10 @@
    Sonarcube -  Detect bugs, code smells, and security vulnerabilities
              -  https://sonarcloud.io/summary/overall?id=Shreeja-Natesh_fs_wise2122_pet_project
 5. Clean Code Development
-6. Build Management
+   - Modularized program.
+   - Using Colab which is an interactive IDE with independant cells to run code.
+   - Clean Code Cheat sheet for Android studio -  
+7. Build Management
    - I wrote a seperate Mobile development code on Android studio.
     #Output - https://github.com/Shreeja-Natesh/fs_wise2122_pet_project/blob/main/proj1-1/Screenshot-output.png .
    - Android Studio uses Gradle, an advanced build toolkit, to automate and manage the build process, while allowing us to define flexible custom build configurations.
@@ -46,6 +49,8 @@
          
 10. Domain Specific Languages
    - what is it? It is languages created to support a particular set of tasks, as they are performed in a specific domain.
+   - Below is the snippet of Domain Specific language written in Groovy.
+   - This is used to run the Java application on Gradle.
 
 
 11. Functional Programming
