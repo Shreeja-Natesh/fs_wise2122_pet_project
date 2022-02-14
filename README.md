@@ -38,11 +38,12 @@
          ![Screenshot (214)](https://user-images.githubusercontent.com/87199756/153851876-8322d91d-07ab-439f-9ea3-9e054ae181d4.png)
 
    - Favorite shortcuts
-         a. shift+shift - to search for anything for an example color
-         b. CTRL+O - override methods
-         c. CTRL+ALT+L - reformat the code
-         d. CTRL+SHIFT+A - search for action
-         e. CTRL+E - recently opened files
+         
+         - shift+shift - to search for anything for an example color
+         - CTRL+O - override methods
+         - CTRL+ALT+L - reformat the code
+         -  CTRL+SHIFT+A - search for action
+         - CTRL+E - recently opened files
          
 10. Domain Specific Languages
    - what is it? It is languages created to support a particular set of tasks, as they are performed in a specific domain.
