@@ -13,9 +13,6 @@
    - Use the link for UML diagram https://github.com/Shreeja-Natesh/fs_wise2122_pet_project/tree/main/UML
 3. DDD
 4. Metrics
-   - I have used 2 Metrics in my code "cancer.ipynb"
-                     - Mean Absoulute Error : calculates the average difference between the calculated values and actual values.
-                     - Classification Report : It is a performance evaluation metric which shows the precision, recall, F1 Score, and support of our trained classification model.
    Sonarcube -  Detect bugs, code smells, and security vulnerabilities
              -  https://sonarcloud.io/summary/overall?id=Shreeja-Natesh_fs_wise2122_pet_project
 5. Clean Code Development
