@@ -31,8 +31,19 @@
 
 9. IDE
    - I have used Android Studio which is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development.
-   - Using Colab which is an interactive IDE with independant cells to run code.
+   - Setup :
+         ![Screenshot (213)](https://user-images.githubusercontent.com/87199756/153851512-6dd73140-b613-4f48-89fb-0218aed1fd43.png)
 
+   - Using Colab which is an interactive IDE with independant cells to run code.
+         ![Screenshot (214)](https://user-images.githubusercontent.com/87199756/153851876-8322d91d-07ab-439f-9ea3-9e054ae181d4.png)
+
+   - Favorite shortcuts
+         a. shift+shift - to search for anything for an example color
+         b. CTRL+O - override methods
+         c. CTRL+ALT+L - reformat the code
+         d. CTRL+SHIFT+A - search for action
+         e. CTRL+E - recently opened files
+         
 10. Domain Specific Languages
    - what is it? It is languages created to support a particular set of tasks, as they are performed in a specific domain.
 
