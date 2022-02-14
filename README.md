@@ -16,9 +16,26 @@
    Sonarcube -  Detect bugs, code smells, and security vulnerabilities
              -  https://sonarcloud.io/summary/overall?id=Shreeja-Natesh_fs_wise2122_pet_project
 5. Clean Code Development
-   - Modularized program.
-   - Using Colab which is an interactive IDE with independant cells to run code.
-   - Clean Code Cheat sheet for Android studio -  
+   - 1. Consistent naming convention
+      ![CCC1](https://user-images.githubusercontent.com/87199756/153934780-c224197e-819a-4ca1-9d2d-0c4d8e9aca18.PNG)
+         
+         - All the names are easy to remember, searchable and clear.
+   - 2. Comments
+      ![CCC2](https://user-images.githubusercontent.com/87199756/153935112-ee5c2715-d9b5-4291-8722-df3bb86e4597.PNG)
+         
+         - Comments are added between the code.
+   - 3. Clear use of functions
+      ![CCC3](https://user-images.githubusercontent.com/87199756/153935289-3b5a0b8b-d667-4a1d-ad0d-d7800bd9c5cf.PNG)
+         
+         - Functions are kept short with limited or required number of arguments.
+   - 4. Content Manger
+         
+         - Allows intraction with external data file.
+   - 5. Function should do one thing
+         
+         - When called the function should return one value and be performed for only one kind of output.
+
+   - Clean Code Cheat sheet for Android studio -  https://github.com/Shreeja-Natesh/fs_wise2122_pet_project/blob/main/Clean%20Code%20Cheat%20sheet%20for%20Android%20studio.pdf
 7. Build Management
    - I wrote a seperate Mobile development code on Android studio.
     #Output - https://github.com/Shreeja-Natesh/fs_wise2122_pet_project/blob/main/proj1-1/Screenshot-output.png .
