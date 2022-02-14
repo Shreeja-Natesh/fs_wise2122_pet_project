@@ -51,6 +51,10 @@
    - what is it? It is languages created to support a particular set of tasks, as they are performed in a specific domain.
    - Below is the snippet of Domain Specific language written in Groovy.
    - This is used to run the Java application on Gradle.
+   - ![DSL1](https://user-images.githubusercontent.com/87199756/153915669-f9acc82b-e5db-4aef-8e0d-b8f1924e44fa.PNG)
+   - ![DSL2](https://user-images.githubusercontent.com/87199756/153915786-c73b9a44-b45c-4fca-8843-9f2c0ce12262.PNG)
+
+
 
 
 11. Functional Programming
