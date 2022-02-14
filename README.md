@@ -6,6 +6,8 @@
    - I entered codes - $ git add .
                     - $ git commit -m "small discription"
                     - $ git push
+                    - ![Screenshot (210)](https://user-images.githubusercontent.com/87199756/153854559-fc51e416-7f85-44a7-b382-6b0497d823bb.png)
+
    - Sometimes I add files directly on git by dragging the file to upload then commiting it.
 2. UML Diagram
    - Use the link for UML diagram https://github.com/Shreeja-Natesh/fs_wise2122_pet_project/tree/main/UML
